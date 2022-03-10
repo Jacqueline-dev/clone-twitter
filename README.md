@@ -13,6 +13,5 @@ Criei o clone do Twitter para treinar as minhas habilidades em CSS utilizando Fl
 
 ### Como entrar em contato comigo 
 
-Contato: +55 (47) 9 9259-5183
+[![Linkedin](https://img.shields.io/badge/Meu%20Perfil-Linkdin-blueviolet)](https://www.linkedin.com/in/jacqueline-ferreira-a152761a5/)
 
-E-mail: jacque.ferreira@outlook.com.br
